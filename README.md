@@ -18,6 +18,8 @@ go build -o server-shadowsocks -ldflags "-s -w"
 chmod +x server-shadowsocks
 ./server-shadowsocks --api xxx --token xxx --node xxx
 ```
+**一键安装**
+* [server-shadowsocks-install](https://github.com/xflash-panda/server-shadowsocks-install)
 
 ##  Thanks
 * [Project X](https://github.com/XTLS/)
